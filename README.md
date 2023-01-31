@@ -12,12 +12,16 @@ Kogpt2 모델을 fastai로 finetuning하였습니다.
 생성된 문장을 확인하였을 때 다른 업종의 음식이름이 언급되는가 하며, 생성된 문장들이 종결 어미로 끝나지 않는 다는 점이 있었고
 가장 아쉬운점은 생성된 문장이 전체적으로 부자연(?) 스러운 느낌이 많이 나는 것 같습니다.
 
-## Ref)
-### fastai를 통해 kogpt2 finetuning하는 법
+
+
+### Ref)
+* fastai를 통해 kogpt2 finetuning하는 법
+
 https://velog.io/@yeah7598/KoGPT2-%EB%8F%99%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0
 
 https://github.com/ttop32/KoGPT2novel/blob/main/train.ipynb
 
-### fastai 학습률에 관해서 
+* fastai 학습률에 관해서 
+
 https://github.com/jehyunlee/texts/blob/master/estimating_an_optimal_learning_rate_for_a_deep_neural_network/text.md
 
