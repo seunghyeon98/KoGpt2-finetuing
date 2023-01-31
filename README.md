@@ -1,4 +1,4 @@
-"# KoGpt2-finetuing" 
+# "KoGpt2-finetuing" 
 
 맛집 추천 사이트인 다이닝 코드(https://www.diningcode.com/)에서 음식점들의 리뷰를 크롤링하여 리뷰데이터를 수집하였고,
 Kogpt2 모델을 fastai로 finetuning하였습니다.
