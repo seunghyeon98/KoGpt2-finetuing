@@ -14,7 +14,7 @@ Kogpt2 모델을 fastai로 finetuning하였습니다.
 
 
 
-### Ref
+### References
 * fastai를 통해 kogpt2 finetuning하는 법
 
 https://velog.io/@yeah7598/KoGPT2-%EB%8F%99%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0
